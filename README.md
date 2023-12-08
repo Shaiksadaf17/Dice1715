@@ -27,9 +27,9 @@ Welcome to **dice1715**, a captivating dice rolling app that brings the thrill o
  
 ## Usage
 
-1.Open the app.
-2.Enter your name when prompted.
-3.Press the button to roll the dice and enjoy the Las Vegas experience.
+1. Open the app.
+2. Enter your name when prompted.
+3. Press the button to roll the dice and enjoy the Las Vegas experience.
 
 
 ## Contact
