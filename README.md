@@ -6,6 +6,9 @@
 
 Welcome to **dice1715**, a captivating dice rolling app that brings the thrill of Las Vegas to your fingertips. As the app opens, your name graces the screen, followed by a seamless interface featuring a button for rolling two dice adorned with the iconic Las Vegas logo and a stylish blue background.
 
+## App logo
+
+![1024](https://github.com/Shaiksadaf17/Dice1715/assets/121873557/12c13a16-8d11-478e-8209-99666f70aa9c)
 
 
 
